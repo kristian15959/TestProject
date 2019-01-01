@@ -1,0 +1,13 @@
+body{
+    background-color: #202020;
+}
+
+h1 {
+    padding: 5px;
+    background-color: gray;
+}
+
+h3 {
+    padding: 5px;
+    background-color: lightgray;
+}
