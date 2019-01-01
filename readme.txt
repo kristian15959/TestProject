@@ -1,1 +1,3 @@
 Hello there!
+
+Learning Git.
